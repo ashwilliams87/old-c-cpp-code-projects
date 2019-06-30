@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1362673844 source:c:\program files\codeblocks\projects\towers\main.cpp
+	"Untitled1.cpp"
+
+1362673843 c:\program files\codeblocks\projects\towers\untitled1.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1362673843 source:c:\program files\codeblocks\projects\towers\untitled1.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
